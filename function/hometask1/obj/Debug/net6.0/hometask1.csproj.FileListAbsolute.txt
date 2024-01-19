@@ -1,0 +1,15 @@
+C:\Geekbrains\Function\function\hometask1\obj\Debug\net6.0\hometask1.csproj.AssemblyReference.cache
+C:\Geekbrains\Function\function\hometask1\obj\Debug\net6.0\hometask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\Function\function\hometask1\obj\Debug\net6.0\hometask1.AssemblyInfoInputs.cache
+C:\Geekbrains\Function\function\hometask1\obj\Debug\net6.0\hometask1.AssemblyInfo.cs
+C:\Geekbrains\Function\function\hometask1\obj\Debug\net6.0\hometask1.csproj.CoreCompileInputs.cache
+C:\Geekbrains\Function\function\hometask1\bin\Debug\net6.0\hometask1.exe
+C:\Geekbrains\Function\function\hometask1\bin\Debug\net6.0\hometask1.deps.json
+C:\Geekbrains\Function\function\hometask1\bin\Debug\net6.0\hometask1.runtimeconfig.json
+C:\Geekbrains\Function\function\hometask1\bin\Debug\net6.0\hometask1.dll
+C:\Geekbrains\Function\function\hometask1\bin\Debug\net6.0\hometask1.pdb
+C:\Geekbrains\Function\function\hometask1\obj\Debug\net6.0\hometask1.dll
+C:\Geekbrains\Function\function\hometask1\obj\Debug\net6.0\refint\hometask1.dll
+C:\Geekbrains\Function\function\hometask1\obj\Debug\net6.0\hometask1.pdb
+C:\Geekbrains\Function\function\hometask1\obj\Debug\net6.0\hometask1.genruntimeconfig.cache
+C:\Geekbrains\Function\function\hometask1\obj\Debug\net6.0\ref\hometask1.dll
