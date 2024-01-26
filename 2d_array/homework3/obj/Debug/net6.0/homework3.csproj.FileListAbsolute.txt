@@ -1,0 +1,15 @@
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\bin\Debug\net6.0\homework3.exe
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\bin\Debug\net6.0\homework3.deps.json
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\bin\Debug\net6.0\homework3.runtimeconfig.json
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\bin\Debug\net6.0\homework3.dll
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\bin\Debug\net6.0\homework3.pdb
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\obj\Debug\net6.0\homework3.csproj.AssemblyReference.cache
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\obj\Debug\net6.0\homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\obj\Debug\net6.0\homework3.AssemblyInfoInputs.cache
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\obj\Debug\net6.0\homework3.AssemblyInfo.cs
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\obj\Debug\net6.0\homework3.csproj.CoreCompileInputs.cache
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\obj\Debug\net6.0\homework3.dll
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\obj\Debug\net6.0\refint\homework3.dll
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\obj\Debug\net6.0\homework3.pdb
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\obj\Debug\net6.0\homework3.genruntimeconfig.cache
+C:\Geekbrains\BasicOfProgramm\2d_array\homework3\obj\Debug\net6.0\ref\homework3.dll
